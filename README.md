@@ -1,0 +1,2 @@
+# Artificial-and-Computational-Intelligence-Game-Playing
+The game which is described is a two-player crossword puzzle where players take turns placing words on a grid. The goal is to correctly place words to maximize their points, which are awarded based on the character count of the word. If a player places a word incorrectly, they lose a point, and the other player has a chance to place it correctly.
